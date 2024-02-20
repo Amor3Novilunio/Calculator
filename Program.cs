@@ -1,0 +1,2 @@
+﻿using app;
+App.Start();
